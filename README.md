@@ -22,7 +22,9 @@ The scripts call these scrapers on Apify (pay per result, Apify's free plan incl
 - [Google Hotels Scraper](https://apify.com/famed_bonobo/google-hotels-scraper)
 - [Google Jobs Scraper](https://apify.com/famed_bonobo/google-jobs-scraper)
 
-Disclosure: I maintain those scrapers. Issues and suggestions are welcome here or on each scraper's page.
+Prefer a REST endpoint you can call from any language, with the answer in seconds? The flights and hotels data is also available as the [Google Travel Data API on RapidAPI](https://rapidapi.com/famed-bonobo-famed-bonobo-default/api/google-travel-data) (200 requests free).
+
+Disclosure: I maintain those scrapers and that API. Issues and suggestions are welcome here or on each scraper's page.
 
 ## License
 

@@ -120,7 +120,7 @@ Two things stand out. The cheapest site changes from hotel to hotel, and sometim
 
 ## Wrapping up
 
-If you need hotel prices from Google Hotels on a schedule, with the offer from every booking site, the [Google Hotels Scraper](https://apify.com/famed_bonobo/google-hotels-scraper) does it without servers or browsers. If you need a field that's missing, open an issue on its page.
+If you need hotel prices from Google Hotels on a schedule, with the offer from every booking site, the [Google Hotels Scraper](https://apify.com/famed_bonobo/google-hotels-scraper) does it without servers or browsers. If you would rather call a REST endpoint from your own app and get the answer in seconds, the same data is available as the [Google Travel Data API on RapidAPI](https://rapidapi.com/famed-bonobo-famed-bonobo-default/api/google-travel-data), with a free tier of 200 requests. If you need a field that's missing, open an issue on either page.
 
 ---
 
