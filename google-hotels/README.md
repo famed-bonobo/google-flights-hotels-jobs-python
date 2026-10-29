@@ -72,7 +72,7 @@ LX Boutique Hotel                         4.3  cheapest  248.36 on KAYAK.com    
 Heritage Lisboa Plaza Hotel - Avenida     4.5  cheapest  307.21 on Stayforlong.com    (highest 678.39 on BusinessHotels.com, 23 sites)
 ```
 
-Two things stand out. The cheapest site changes from hotel to hotel, and sometimes it is the hotel's own website. Twenty hotels with every booking site's offer cost about $0.016 here: $0.40 per 1,000 hotels plus $0.40 per 1,000 hotels with booking-site offers.
+Two things stand out. The cheapest site changes from hotel to hotel, and sometimes it is the hotel's own website. Twenty hotels with every booking site's offer cost about $0.06 here: $2.00 per 1,000 hotels plus $1.00 per 1,000 hotels with booking-site offers.
 
 ## What you get for each hotel
 

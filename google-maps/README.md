@@ -2,7 +2,7 @@
 
 Google Maps shows only the most prominent places of a search; zoom out over a city and a search for "dentist" stops at a few dozen results. The Places API has the same ceiling (60 results per search) and charges per request.
 
-`google_maps_example.py` uses the [Google Maps Scraper on Apify](https://apify.com/famed_bonobo/google-maps-scraper) (pay per result, $0.40 per 1,000 places; Apify's free plan includes $5 of monthly credit) to get every dentist within 5 km of downtown Austin whose listing the owner has never claimed, and saves them to a CSV file sorted by distance.
+`google_maps_example.py` uses the [Google Maps Scraper on Apify](https://apify.com/famed_bonobo/google-maps-scraper) (pay per result, $1.00 per 1,000 places; Apify's free plan includes $5 of monthly credit) to get every dentist within 5 km of downtown Austin whose listing the owner has never claimed, and saves them to a CSV file sorted by distance.
 
 ## How it finds every place
 

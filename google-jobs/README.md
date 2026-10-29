@@ -8,7 +8,7 @@ There is one problem: **Google has no public Google Jobs API.** This post explai
 
 - There is no official API. Google's old Cloud Talent Solution is for employers searching their *own* jobs, not for reading Google Jobs results.
 - Scraping it yourself means dealing with a JavaScript wall, captchas, and pagination that only works inside a browser session.
-- The quickest route is a ready-made scraper. Below I use the [Google Jobs Scraper on Apify](https://apify.com/famed_bonobo/google-jobs-scraper) from Python, which costs $1.50 per 1,000 jobs.
+- The quickest route is a ready-made scraper. Below I use the [Google Jobs Scraper on Apify](https://apify.com/famed_bonobo/google-jobs-scraper) from Python, which costs $2.50 per 1,000 jobs.
 
 *Disclosure: I built that scraper. I'll explain the technical hurdles honestly so you can decide whether to build your own instead.*
 
@@ -125,7 +125,7 @@ Expect around 30 seconds for the first 10 jobs and a few minutes for 100+, since
 
 ## What it costs
 
-Pricing is $1.50 per 1,000 jobs, with no monthly fee, and platform usage is included. A run with 100 jobs costs about $0.15. You can set a maximum charge per run, and the scraper stops cleanly when it reaches it.
+Pricing is $2.50 per 1,000 jobs, with no monthly fee, and platform usage is included. A run with 100 jobs costs about $0.25. You can set a maximum charge per run, and the scraper stops cleanly when it reaches it.
 
 ## Wrapping up
 

@@ -2,7 +2,7 @@
 
 Google Trends has no public API, and its page compares at most five terms. Worse, every comparison is rescaled so its highest point is 100, so values from two comparisons cannot be read against each other.
 
-`google_trends_example.py` gets around both limits with the [Google Trends Scraper on Apify](https://apify.com/famed_bonobo/google-trends-scraper) (pay per result, $0.40 per 1,000 terms; Apify's free plan includes $5 of monthly credit).
+`google_trends_example.py` gets around both limits with the [Google Trends Scraper on Apify](https://apify.com/famed_bonobo/google-trends-scraper) (pay per result, $1.00 per 1,000 terms; Apify's free plan includes $5 of monthly credit).
 
 ## How the comparison works
 

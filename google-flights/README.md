@@ -23,7 +23,7 @@ The open-source project [fast-flights](https://github.com/AWeirdDev/flights) rev
 |---|---|---|---|
 | fast-flights (open source) | Medium | Free + your infrastructure | Hobby projects, full control |
 | SERP API services | Low | Usually a monthly plan | Teams already using one |
-| Apify actor (below) | Very low | $0.05 per 1,000 flights, pay as you go | Scheduled fare tracking, no servers |
+| Apify actor (below) | Low | $0.50 per 1,000 flights, pay as you go | Scheduled fare tracking, no servers |
 | REST API on RapidAPI (same data) | Very low | 200 requests free, then from $9.99/month | Apps that need an answer in seconds, from any language |
 
 ## Step by step: several routes in a few lines of Python
@@ -138,7 +138,7 @@ Apify can call a webhook when each run finishes, so the whole alert needs no ser
 
 ## Wrapping up
 
-If you want full control and don't mind maintaining it, start from fast-flights. If you want flight data on a schedule without running anything yourself, the [Google Flights Scraper](https://apify.com/famed_bonobo/google-flights-scraper) does it for $0.05 per 1,000 flights. If you would rather call a plain REST endpoint from your own app, the same data (plus return flights, booking options and a 330-day price calendar) is available as the [Google Travel Data API on RapidAPI](https://rapidapi.com/famed-bonobo-famed-bonobo-default/api/google-travel-data), with a free tier of 200 requests. If something you need is missing, open an issue on either page.
+If you want full control and don't mind maintaining it, start from fast-flights. If you want flight data on a schedule without running anything yourself, the [Google Flights Scraper](https://apify.com/famed_bonobo/google-flights-scraper) does it for $0.50 per 1,000 flights. If you would rather call a plain REST endpoint from your own app, the same data (plus return flights, booking options and a 330-day price calendar) is available as the [Google Travel Data API on RapidAPI](https://rapidapi.com/famed-bonobo-famed-bonobo-default/api/google-travel-data), with a free tier of 200 requests. If something you need is missing, open an issue on either page.
 
 ---
 
