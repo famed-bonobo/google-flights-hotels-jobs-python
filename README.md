@@ -10,6 +10,9 @@ Working examples for getting data from Google Flights, Google Hotels, Google Job
 | [`google-trends/`](google-trends/) | Compare more than 5 Google Trends terms on one scale |
 | [`google-maps/`](google-maps/) | Every unclaimed business of a category within a radius, not only the first 150, saved to CSV |
 
+**Google Trends without an account:** the free, open-source [trendscale](https://github.com/famed-bonobo/trendscale)
+library compares any number of terms on one 0-100 scale from your own machine, and replaces pytrends with one import.
+
 **Google Hotels without an account:** the free, open-source [google-hotels](https://github.com/famed-bonobo/google-hotels)
 library reads Google Hotels from your own machine (search, every booking site's offer, price calendar, reviews), with
 the same fields as the hosted scraper below.
